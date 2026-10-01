@@ -58,7 +58,7 @@ const Hero = () => {
         </div>
         
         <h1 className="hero-element font-sans font-extrabold text-5xl md:text-7xl lg:text-[5.5rem] text-primary tracking-tight mb-4 leading-[1.1]">
-          Alain Guy Fotso Kamto
+          Guy Alain Fotso Kamto
         </h1>
         
         <h2 className="hero-element font-serif italic text-3xl md:text-5xl lg:text-5xl text-primary/70 mb-10">
@@ -409,7 +409,7 @@ const Footer = () => {
     <footer className="bg-primary pt-24 pb-12 px-6 -mt-10 relative z-10 border-t border-white/10">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
         <div className="text-center md:text-left">
-          <h5 className="font-sans font-bold text-white text-2xl tracking-tight">Alain Guy Fotso Kamto</h5>
+          <h5 className="font-sans font-bold text-white text-2xl tracking-tight">Guy Alain Fotso Kamto</h5>
           <p className="font-sans text-white/40 text-sm mt-2">Apprendre. Construire. Avoir un impact. © {new Date().getFullYear()}</p>
         </div>
         
